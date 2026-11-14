@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 An empirical study analyzing the key economic and infrastructural factors influencing housing market prices in the Xindian district (New Taipei City). Based on a dataset of 414 residential property observations, the project applies multiple linear regression and hypothesis testing to identify pricing drivers and support data-driven real estate valuation.
 
-* **Language / Documentation:** English presentation ready
+* **Language / Documentation:** Slovak / English presentation ready
 * **Domain:** Quantitative Real Estate Economics & Statistics
 
 ---
