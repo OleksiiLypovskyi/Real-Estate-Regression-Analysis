@@ -37,4 +37,4 @@ A two-sample t-test was conducted to evaluate price differences between properti
 
 ## 📁 Repository Contents
 * `project_data.xlsx` — Cleaned dataset used for analysis.
-* `report_data.pdf` — Full project report.
+* `report_dat.pdf` — Full project report.
